@@ -75,7 +75,7 @@ Rectangle {
                         anchors.verticalCenter: parent.verticalCenter
                         text: name
                         color: current ? "#ffffff" : "#f4f4f4"
-                        pixel: 4
+                        pixel: 6
                     }
                 }
                 MouseArea {
