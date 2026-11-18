@@ -1,2 +1,2 @@
 # mvp-version-2
-just foe exchange
+just for exchange
