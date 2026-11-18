@@ -256,7 +256,7 @@ ApplicationWindow {
                         TextField {
                             id: nameField
                             Layout.fillWidth: true
-                            font.family: "Courier"
+                            font.family: "Courier New"
                             font.bold: true
                             font.pixelSize: 16
                             color: "#f4f4f4"
