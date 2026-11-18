@@ -1,10 +1,33 @@
 # Microscopix – MVP
 
-Review AI-annotated vesicle images: **accept** correct predictions, **flag** wrong ones for
+*Review AI-annotated vesicle images: **accept** correct predictions, **flag** wrong ones for
 correction, **correct** or **delete** them, earn XP, fill the progress bars, level up and
-work through blocks of images.
+work through blocks of images.*
 
-## Run
+## Overview
+
+**Microscopix** is a desktop application that transforms the process of reviewing AI-generated microscopy annotations into an interactive and engaging game experience.
+
+Researchers in biological and chemical laboratories often need to review thousands of microscopy images containing tiny structures, such as vesicles, and identify or verify them individually. This process can be repetitive, time-consuming, and demanding.
+
+Microscopix aims to make this process more convenient and engaging by combining scientific image annotation with game mechanics. Instead of reviewing large amounts of data at once, users work through smaller tasks, receive immediate visual feedback, track their progress, and earn rewards as they complete annotation reviews.
+
+This repository contains the initial Minimum Viable Product (MVP) of Microscopix, providing a first implementation of its core features and workflow.
+
+## 🚀 Getting Started
+
+Follow these instructions to set up and run the project locally.
+
+### Prerequisites
+
+Before starting, make sure you have:
+
+- Python installed.
+- Visual Studio Code or another Python-compatible IDE.
+- Git (if working with the shared repository).
+
+The application requires PySide6.
+### Run
 ```bash
 python -m venv .venv && source .venv/bin/activate
 python -m pip install -r requirements.txt
