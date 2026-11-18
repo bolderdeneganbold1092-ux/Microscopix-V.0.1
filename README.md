@@ -1,4 +1,4 @@
-# Flag and Frame – MVP
+# Microscopix – MVP
 
 Review AI-annotated vesicle images: **accept** correct predictions, **flag** wrong ones for
 correction, **correct** or **delete** them, earn XP, fill the progress bars, level up and
