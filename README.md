@@ -42,11 +42,11 @@ after every action (Reset clears them). Mock data can be regenerated with
 | Action | XP |
 |---|---|
 | Accept (confirm an annotation) | 1 |
-| Flag for correction | 1 (assumed) |
+| Flag for correction | 2 |
 | Correct an annotation | 2 |
 | Delete an incorrect annotation | 1 |
-| Finish an image (all objects reviewed) | +5 (assumed) |
-| Finish a block (all its images done) | +10 (assumed) |
+| Finish an image (all objects reviewed) | +5 |
+| Finish a block (all its images done) | +10 |
 
 Level = 1 + XP // 20 (design doc: L2 = 20, L3 = 40, L4 = 60 XP).
 A flagged object can still be corrected or deleted later (extra XP); accepted, corrected and
